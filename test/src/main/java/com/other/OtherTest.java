@@ -5,5 +5,6 @@ public class OtherTest {
         System.err.println("111");
         System.err.println("222");
         System.err.println("公司");
+        System.err.println("a");
     }
 }

@@ -7,5 +7,6 @@ public class TestRepo {
         System.err.println(2);
         System.err.println(3);
         System.err.println("branch1");
+        System.err.println("branch1 commit");
     }
 }

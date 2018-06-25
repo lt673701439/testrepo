@@ -10,6 +10,5 @@ public class TestRepo {
         System.err.println("if has conflict");
         System.err.println("branch1 commit");
         System.err.println("branch1 commit");
-        System.err.println("master commit");
     }
 }

@@ -11,4 +11,7 @@ public class TestRepo {
         System.err.println("branch1 commit");
         System.err.println("branch1 commit");
     }
+    public static void name() {
+		System.out.println();
+	}
 }

@@ -9,8 +9,6 @@ public class TestRepo {
         System.err.println("branch1");
         System.err.println("if has conflict");
 	    System.out.println(20181029);
-	    System.out.println("commit 1");
-	    System.out.println("commit 2");
     }
     public static void name() {
 		System.out.println();

@@ -8,7 +8,6 @@ public class OtherTest {
         System.err.println("eclipse");
         System.err.println("eclipse");
 	    System.out.println(20181029);
-	    System.out.println("commit 1");
 	    System.out.println("commit 2");
     }
 }

@@ -7,5 +7,6 @@ public class OtherTest {
         System.err.println("公司");
         System.err.println("eclipse");
         System.err.println("eclipse");
+	    System.out.println(20181029);
     }
 }

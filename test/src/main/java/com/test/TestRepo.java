@@ -10,6 +10,8 @@ public class TestRepo {
         System.err.println("if has conflict");
 	    System.out.println(20181029);
 	    System.out.println("commit 2");
+        System.out.println("rebase branch");
+        System.err.println("amend commit");
     }
     public static void name() {
 		System.out.println();
